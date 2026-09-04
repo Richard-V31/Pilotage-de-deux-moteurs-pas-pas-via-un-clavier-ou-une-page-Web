@@ -1,6 +1,6 @@
 #include "Arduino.h"
-#define SECRET_SSID "Livebox-0A70"
-#define SECRET_PASS "hq5mqv7bjTt5YaC2MC"
+#define SECRET_SSID "Box"
+#define SECRET_PASS "Mot de Passe"
 
 /*Dans l'entête du programme
       Carte	                                  Syntaxe conseillée
