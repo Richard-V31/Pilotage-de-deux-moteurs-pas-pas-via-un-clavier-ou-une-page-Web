@@ -1,5 +1,4 @@
-# Pilotage de deux moteurs pas à pas 
-#(Moteur 1 / Moteur 2) avec Arduino UNO R4 WiFi
+# Pilotage de deux moteurs pas à pas <br> (Moteur 1 / Moteur 2) avec Arduino UNO R4 WiFi
 
 Pilotage de deux moteurs pas à pas via :
 - des **boutons physiques** branchés sur un module d'extension I2C **MCP23008** ;
